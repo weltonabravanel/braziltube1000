@@ -85,4 +85,4 @@ export const YOUTUBE_COMMENTS_API = (videoId, nextToken) =>
   "&prettyPrint=true&key=" +
   GOOGLE_API_KEY;
 
-export const GITHUB_LINK = "https://github.com/tonnykh/youtube-clone";
+export const GITHUB_LINK = "https://braziltube.com.br";
