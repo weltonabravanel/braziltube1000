@@ -33,11 +33,9 @@ export const categories = [
 ];
 
 const GOOGLE_API_KEY = "AIzaSyAkpSUobS1_L2FztkyQ_2YM1kHobjv09CQ',
-const GOOGLE_API_KEY = "AIzaSyBJimK4ShJxgF_MXm0T5i2qEwy-P7WhjPI',
-const GOOGLE_API_KEY = "AIzaSyBEYvM_RY7lpHVFTLsDAYdQWsz32_1Unks',
 
 
-export const LIVE_CHAT_COUNT = 10;
+export const LIVE_CHAT_COUNT = 1;
 
 export const YOUTUBE_VIDEOS_API = (nextToken) =>
   "https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&pageToken=" +
