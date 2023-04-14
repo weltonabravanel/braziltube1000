@@ -34,7 +34,6 @@ export const categories = [
 
 const GOOGLE_API_KEY = "AIzaSyAkpSUobS1_L2FztkyQ_2YM1kHobjv09CQ',
 
-
 export const LIVE_CHAT_COUNT = 1;
 
 export const YOUTUBE_VIDEOS_API = (nextToken) =>
