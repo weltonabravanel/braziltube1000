@@ -33,7 +33,7 @@ export const categories = [
 ];
 
 const GOOGLE_API_KEY = "AIzaSyAkpSUobS1_L2FztkyQ_2YM1kHobjv09CQ',
-const GOOGLE_API_KEY = "AIzaSyBEYvM_RY7lpHVFTLsDAYdQWsz32_1Unks',
+
 export const LIVE_CHAT_COUNT = 1;
 
 export const YOUTUBE_VIDEOS_API = (nextToken) =>
